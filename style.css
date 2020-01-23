@@ -1,0 +1,205 @@
+#hero {
+background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?cs=srgb&dl=automobiles-automotives-black-and-white-black-and-white-70912.jpg&fm=jpg);
+height: 600px;
+background-size: cover;
+color: #fff;
+font-family: 'Lato',sans-serif;
+}
+
+#hero h1{
+	margin: 0;
+}
+ 
+nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+nav ul{
+	display: flex;
+	list-style-type: none;
+}
+
+nav ul li{
+	margin: 0 1rem;
+	font-weight: 700;
+	text-align: top;
+}
+.content{
+	text-align: center;
+	font-size: 4rem;
+	margin-top: 100px;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+.content button{
+	font-size: 2rem;
+	color: #fff;
+	background-color: #2f70d8;
+	border: none;
+	padding:.5rem 2rem;
+	cursor: pointer;
+	transition: all .3s ease;
+}
+
+.content button:hover {
+	background-color: #08347a;
+}
+
+.but1{
+		font-size: 1.2rem;
+	color: #fff;
+	background-color: rgb(16, 15, 122);
+	border: none;
+	padding:.5rem 2rem;
+	cursor: pointer;
+	transition: all .3s ease;
+}
+
+
+.but1:hover {
+background-color: rgb(75, 130, 78);
+}
+
+.box-1{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/58724/pexels-photo-58724.jpeg?cs=srgb&dl=man-people-driving-businessman-58724.jpg&fm=jpg);
+    margin-top: 50px;
+    height: 140px;
+    width:390px;
+    padding: 270px; 
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float:left;
+    font-weight: 700;
+    
+
+}
+
+.box-2{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/461890/pexels-photo-461890.jpeg?cs=srgb&dl=blur-cars-clouds-highway-461890.jpg&fm=jpg);
+    margin-top: 50px;
+    height: 140px;
+    width:390px;
+    padding: 270px; 
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float: right;
+    font-weight: 700;
+}
+
+
+
+.box-3{background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/2464748/pexels-photo-2464748.jpeg?cs=srgb&dl=photo-of-mercedes-benz-steering-wheel-2464748.jpg&fm=jpg);
+    margin-top: 50px;
+    height: 140px;
+    width:390px;
+    padding: 270px; 
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float:left;
+    font-weight: 700;
+   }
+
+.box-4{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?cs=srgb&dl=black-mercedes-benz-vehicle-3457780.jpg&fm=jpg);
+    margin-top: 50px;
+    height: 140px;
+    width:390px;
+    padding: 270px; 
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float: right;
+    font-weight: 700;
+
+}
+
+.box-5{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/920828/pexels-photo-920828.jpeg?cs=srgb&dl=photo-of-brown-convertible-coupe-on-the-road-920828.jpg&fm=jpg);
+    margin-top: 50px;
+    height: 140px;
+    width:390px;
+    padding: 270px; 
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float:left;
+    font-weight: 700;
+
+    
+
+}
+
+.box-6{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/892703/pexels-photo-892703.jpeg?cs=srgb&dl=mercedes-benz-logo-892703.jpg&fm=jpg);
+    margin-top: 50px;
+    height: 140px;
+    width:390px;
+    padding: 270px; 
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float: right;
+
+}
+
+
+.box-7{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/1595244/pexels-photo-1595244.jpeg?cs=srgb&dl=black-and-white-black-background-camera-camera-equipment-1595244.jpg&fm=jpg);
+    margin-top: 20px;
+    height: 140px;
+    width:390px;
+    padding: 270px;
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float: left;
+    text-align: left;
+
+
+}
+
+.box-8{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url(https://images.pexels.com/photos/1595244/pexels-photo-1595244.jpeg?cs=srgb&dl=black-and-white-black-background-camera-camera-equipment-1595244.jpg&fm=jpg);
+    margin-top: 20px;
+    height: 140px;
+    width:390px;
+    padding: 270px;
+    background-size: cover;
+    color: #fff;
+    font-family:'Lato',sans-serif;
+    float: right;
+
+
+}
+
+.but3{
+
+	font-size: 1.2rem;
+	color: #fff;
+	background-color: rgb(16, 15, 122);
+	border: none;
+	padding:.2rem .3rem;
+	cursor: pointer;
+	transition: all .3s ease;
+}
+
+.but3:hover {
+background-color: rgb(75, 130, 78);
+}
+
+
+
+
+
+
+
+
+
+    
+
+
